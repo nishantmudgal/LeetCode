@@ -1,0 +1,1 @@
+Problem URL: https://leetcode.com/problems/find-the-original-typed-string-i/description/
